@@ -14,7 +14,7 @@
 
 1. У Lampa відкрий **Налаштування → Розширення / Плагіни**.
 2. Додай плагін:
-https://raw.githubusercontent.com/maxbox39/lampa-weather/refs/heads/main/weather.js
+https://maxbox39.github.io/lampa-weather/weather.js
 
 3. Перезапусти Lampa.
 4. Зайди в **Налаштування → Погода** і обери місто.
